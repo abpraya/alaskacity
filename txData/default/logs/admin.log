@@ -1,0 +1,33 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6613 Starting - 8/4/2023, 5:36:32 PM
+================================================================
+[17:36:52][Alaska_RP] created admins file
+[17:37:21][Alaska_RP] Changing global/fxserver settings via setup stepper.
+[17:38:12][Alaska_RP] executed "RESTART SERVER"
+[17:42:13][Alaska_RP] Changing fxRunner settings.
+[17:42:17][Alaska_RP] executed "RESTART SERVER"
+[17:54:36][Alaska_RP] Adding admin 'mfahroziii'.
+[17:54:36][mfahroziii] logged in via in-game ui
+[17:54:50][Alaska_RP] Deleting user 'mfahroziii'.
+[17:55:16][Alaska_RP] Adding admin 'mfahroziii'.
+[17:55:16][mfahroziii] logged in via in-game ui
+[17:55:33][Alaska_RP] executed "RESTART SERVER"
+[17:55:58][Alaska_RP] executed "RESTART SERVER"
+[17:57:07][Alaska_RP] executed "RESTART SERVER"
+[17:59:00][mfahroziii] logged in via in-game ui
+[17:59:30][mfahroziii] logged in from via NUI iframe
+[17:59:35][mfahroziii] Adding admin 'pocong'.
+[17:59:35][mfahroziii] logged in via in-game ui
+[17:59:58][mfahroziii] logged in from via NUI iframe
+[19:07:36][Alaska_RP] Adding admin 'SNino'.
+[19:07:36][SNino] logged in via in-game ui
+[19:33:29][Alaska_RP] executed "RESTART SERVER"
+[19:36:38][SNino] logged in via in-game ui
+[21:17:23][Alaska_RP] Sending announcement: restart
+[21:17:29][Alaska_RP] executed "RESTART SERVER"
+[21:19:09][mfahroziii] logged in via in-game ui
+[21:43:36][SNino] logged in via in-game ui
+[23:28:11][pocong] logged in via in-game ui
+[23:28:46][SNino] logged in from via NUI iframe
+[23:56:00][SNino] logged in via in-game ui

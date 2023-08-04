@@ -1,0 +1,69 @@
+
+================================================================
+======== Log Rotated - 8/5/2023, 12:00:00 AM                    
+================================================================
+
+[  script:cd_easytime] [cd_easytime] - Weather changed to EXTRASUNNY
+[  script:es_extended] [INFO] Player "Dadang Guzman" has connected to the server. ID: 7
+[      script:oxmysql] Error: side_garage was unable to execute a query!
+[      script:oxmysql] Table 's907_alaska.owned_properties' doesn't exist
+[38;5;42m[      script:oxmysql] SELECT * FROM owned_properties WHERE owner = ? ["1100001431a17f1"]
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty PitchBlack
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty PitchBlack
+[  script:es_extended] [ERROR] The player could not be seated in the vehicle
+[  script:side_script] id:7
+[  script:side_script] X: -18.237358093262, Y: -576.79119873047, Z: 17.90625
+[  script:side_script] identifier:steam:1100001431a17f1
+[  script:side_script] reason:Exiting
+[  script:side_script] id:7
+[  script:side_script] X: -18.237358093262, Y: -576.79119873047, Z: 17.90625
+[  script:side_script] identifier:steam:1100001431a17f1
+[  script:side_script] reason:Exiting
+[  script:es_extended] [INFO] Saved player "Dadang Guzman"
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:cd_easytime] [cd_easytime] - Weather changed to CLOUDS
+[      script:hardcap] Connecting: PitchBlack
+[   script:side_admin] SCRIPT ERROR: @side_admin/server/report/server.lua:127: attempt to index a nil value (local 'player')
+[  script:es_extended] [INFO] Player "Dadang Guzman" has connected to the server. ID: 8
+[      script:oxmysql] Error: side_garage was unable to execute a query!
+[38;5;42m[      script:oxmysql] Table 's907_alaska.owned_properties' doesn't exist
+[      script:oxmysql] SELECT * FROM owned_properties WHERE owner = ? ["1100001431a17f1"]
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty PitchBlack
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty PitchBlack
+[ citizen-server-impl] server thread hitch warning: timer interval of 190 milliseconds
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[  script:side_script] id:8
+[  script:side_script] X: -702.43518066406, Y: -1252.9187011719, Z: 11.317993164063
+[  script:side_script] identifier:steam:1100001431a17f1
+[  script:side_script] reason:Server->client connection timed out. Last seen 809 msec ago.
+[  script:side_script] id:8
+[  script:side_script] X: -702.43518066406, Y: -1252.9187011719, Z: 11.317993164063
+[  script:side_script] identifier:steam:1100001431a17f1
+[  script:side_script] reason:Server->client connection timed out. Last seen 809 msec ago.
+[  script:es_extended] [INFO] Saved player "Dadang Guzman"
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[script:side_communit] [INFO] JD_CommunityService (side_communityservice) is up to date! (1.1.0)
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[ citizen-server-impl] server thread hitch warning: timer interval of 186 milliseconds
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[ citizen-server-impl] server thread hitch warning: timer interval of 218 milliseconds
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:side_script] [RFLX_PDBLIPS]	Setting on duty Dodol Sunda
+[  script:cd_easytime] [cd_easytime] - Weather changed to CLEAR
+[  script:side_script] id:6
+[  script:side_script] X: 3372.8703613281, Y: 5184.0659179688, Z: 1.4439697265625
+[  script:side_script] identifier:steam:1100001443602c2
+[  script:side_script] reason:Exiting
+[  script:side_script] id:6
+[  script:side_script] X: 3372.8703613281, Y: 5184.0659179688, Z: 1.4439697265625
+[  script:side_script] identifier:steam:1100001443602c2
+[  script:side_script] reason:Exiting
+[  script:es_extended] [INFO] Saved player "Dhika Nino"
+[  script:cd_easytime] [cd_easytime] - Weather changed to OVERCAST
+[  script:cd_easytime] [cd_easytime] - Weather changed to EXTRASUNNY

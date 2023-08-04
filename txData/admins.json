@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Alaska_RP",
+    "master": true,
+    "password_hash": "$2a$11$0aZcP98HNY8U3/WJBbSsv.iTG0saqsyWhg26ljeJzopmodze2TtJ6",
+    "providers": {
+      "citizenfx": {
+        "id": "Alaska_RP",
+        "identifier": "fivem:11176688",
+        "data": {
+          "sub": "7c262a899f5c64dda7ea96331d789a99",
+          "nameid": "https://forum.cfx.re/internal/user/11176688",
+          "name": "Alaska_RP",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/alaska_rp/256/3605734_2.png",
+          "profile": "https://forum.cfx.re/u/Alaska_RP"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "mfahroziii",
+    "master": false,
+    "password_hash": "$2a$11$uAI8NObISxon1OhhR6mDq.n4BWTDBXIY7dxFZshyD5Sl.sQ9FzUNm",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "mfahroziii",
+        "identifier": "fivem:1337743",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "pocong",
+    "master": false,
+    "password_hash": "$2a$11$hHtD8/zg3bBTqFXjjQwmguwgYABZWAHhKQU9K5P9pSt4Y17YoiKue",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "363337639891435530",
+        "identifier": "discord:363337639891435530",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "SNino",
+    "master": false,
+    "password_hash": "$2a$11$8zWO7jC2OdV3v95kAP.pXOadpCAuhPwrBnvtoousnKVJ6zkymQNq2",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "708572312835981352",
+        "identifier": "discord:708572312835981352",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
